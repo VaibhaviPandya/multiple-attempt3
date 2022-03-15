@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a378a9f3-eabb-4929-a90d-4a37dbde302f": {
+      "ProjectGuid": "a378a9f3-eabb-4929-a90d-4a37dbde302f",
+      "DisplayName": "TestServer2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
